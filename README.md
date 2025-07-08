@@ -20,7 +20,7 @@ This project demonstrates practical **IT scripting, printer automation, and onbo
 
 ### 1️⃣ Install the Canon UFR II Driver
 
-If you have not installed it yet, download and install the first file under Software and Driver Results to get the [Canon UFR II Printer Driver](https://www.usa.canon.com/support/p/imagerunner-advance-dx-c3930i?srsltid=AfmBOoqN7t3PaLdo_JEmTCSSBB5NmdePzUHcFCm0C0tWIao-1H-58FhN).
+If you have not installed it yet, click "Software & Drivers", then download and install the first file under Software and Driver Results to get the [Canon UFR II Printer Driver](https://www.usa.canon.com/support/p/imagerunner-advance-dx-c3930i?srsltid=AfmBOoqN7t3PaLdo_JEmTCSSBB5NmdePzUHcFCm0C0tWIao-1H-58FhN).
 
 ### 2️⃣ Download the Installer Script
 
