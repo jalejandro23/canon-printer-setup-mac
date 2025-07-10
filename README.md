@@ -48,7 +48,7 @@ You will see:
 
 ## 🩶 Why this project?
 
-I built this for our office to:
+I built this for the StoryCorps office to:
 - Automate repetitive printer setup across multiple Mac devices.
 - Reduce user friction with QR-code-based onboarding.
 - Practice **shell scripting, macOS administration, and documentation workflows**.
