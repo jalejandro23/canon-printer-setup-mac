@@ -2,9 +2,9 @@
 
 echo "=== 8th Floor Canon iR-ADV C3930i Printer Setup ==="
 
-PRINTER_NAME="8th Floor Printer"
+PRINTER_NAME="_8th_Floor_Printer"
 PRINTER_LOCATION="8th Floor"
-PRINTER_DESCRIPTION="Canon iR-ADV C3930i with UFR II Driver on 8th Floor"
+PRINTER_DESCRIPTION="8th Floor Printer"
 PPD_PATH="/Library/Printers/PPDs/Contents/Resources/CNPZUIRAC3930ZU.ppd.gz"
 
 # Using mDNS (Bonjour) for resilient connection
