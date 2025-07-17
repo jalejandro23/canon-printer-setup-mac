@@ -24,7 +24,7 @@ If you have not installed it yet, click "Software & Drivers", then download and 
 
 ### 2️⃣ Download the Installer Script
 
-👉 [Download `add_8th_floor_printer.command`](https://github.com/jalejandro23/canon-printer-setup-mac/raw/main/add_8th_floor_printer.command)
+👉 Download the`add_8th_floor_printer.command` file
 
 ### 3️⃣ Run the Installer
 
