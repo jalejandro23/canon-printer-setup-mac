@@ -16,10 +16,6 @@ This project demonstrates practical **IT scripting, printer automation, and onbo
 
 ---
 
-## 👉 Download the script with this link:
-
-[Script](https://raw.githubusercontent.com/jalejandro23/canon-printer-setup-mac/main/add_8th_floor_printer.command)
-
 ## 🖥️ How to Use
 
 ### 1️⃣ Install the Canon UFR II Driver
